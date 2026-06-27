@@ -71,7 +71,7 @@ export default function BluehostVsSiteground() {
           <div className="bg-zinc-900 border border-zinc-800 rounded-2xl p-5">
             <p className="text-green-400 font-bold mb-2">Choose SiteGround if:</p>
             <p className="text-zinc-400 text-sm">You want better performance, daily backups, and best-in-class support. Worth the extra $1-2/mo if your site matters to your business.</p>
-            <a href="https://www.siteground.com" target="_blank" rel="noopener noreferrer"
+            <a href="https://www.siteground.com/index.htm?afcode=6dadc1a65bc578e8e934b5cd233e43e0" target="_blank" rel="noopener noreferrer"
               className="inline-block mt-3 bg-blue-600 hover:bg-blue-700 text-white font-semibold px-4 py-2 rounded-xl text-sm transition-colors">
               Get SiteGround →
             </a>

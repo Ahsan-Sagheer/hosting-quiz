@@ -32,7 +32,7 @@ const picks = [
     why: "Consistently rated #1 for customer support. Slightly more expensive but the help you get when something breaks is worth it. Daily backups mean you can't permanently break your site.",
     pros: ["Best customer support in the industry", "Daily automatic backups", "Fast load times", "Free SSL & CDN"],
     cons: ["More expensive than Bluehost/Hostinger", "1 website on starter plan"],
-    affiliateUrl: "https://www.siteground.com",
+    affiliateUrl: "https://www.siteground.com/index.htm?afcode=6dadc1a65bc578e8e934b5cd233e43e0",
   },
   {
     rank: "Best Privacy-Focused",

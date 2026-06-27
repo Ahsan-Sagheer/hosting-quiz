@@ -8,7 +8,7 @@ export const metadata: Metadata = {
 
 const picks = [
   { rank: "Best Budget WordPress Host", name: "Bluehost Basic", price: "$2.95/mo", desc: "Officially recommended by WordPress.org. Easiest way to get a WordPress site live in under 10 minutes. Free domain, one-click install, beginner-friendly dashboard.", url: "https://www.bluehost.com" },
-  { rank: "Best Performance (Shared)", name: "SiteGround GrowBig", price: "$6.99/mo", desc: "Faster than Bluehost with built-in caching, daily backups, and staging environments. Best choice if your WordPress site needs to be fast and reliable.", url: "https://www.siteground.com" },
+  { rank: "Best Performance (Shared)", name: "SiteGround GrowBig", price: "$6.99/mo", desc: "Faster than Bluehost with built-in caching, daily backups, and staging environments. Best choice if your WordPress site needs to be fast and reliable.", url: "https://www.siteground.com/index.htm?afcode=6dadc1a65bc578e8e934b5cd233e43e0" },
   { rank: "Best Managed WordPress", name: "WP Engine Startup", price: "$20/mo", desc: "Full managed WordPress — automatic updates, security patches, daily backups, expert WordPress support. No shared resources. Your site is the only priority.", url: "https://www.wpengine.com" },
   { rank: "Best Premium Cloud", name: "Kinsta Starter", price: "$35/mo", desc: "Built on Google Cloud infrastructure. Fastest WordPress speeds available. Cloudflare CDN included. For sites where every millisecond of load time matters.", url: "https://www.kinsta.com" },
 ];

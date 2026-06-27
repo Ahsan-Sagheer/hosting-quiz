@@ -10,7 +10,7 @@ const hosts = [
   { name: "Hostinger Premium", price: "$2.99/mo", renewal: "$7.99/mo", storage: "100 GB SSD", sites: "100", verdict: "Cheapest reliable option. Fast servers, generous limits, AI builder included.", url: "https://www.hostinger.com" },
   { name: "DreamHost Shared", price: "$2.59/mo", renewal: "$7.99/mo", storage: "Unlimited", sites: "1", verdict: "Cheapest on the list. Unlimited storage, 97-day refund, but only 1 website.", url: "https://www.dreamhost.com" },
   { name: "Bluehost Basic", price: "$2.95/mo", renewal: "$10.99/mo", storage: "10 GB SSD", sites: "1", verdict: "Slightly pricier renewal but free domain + WordPress recommendation makes it worth it.", url: "https://www.bluehost.com" },
-  { name: "SiteGround StartUp", price: "$3.99/mo", renewal: "$14.99/mo", storage: "10 GB SSD", sites: "1", verdict: "Most expensive here but the best support and daily backups justify it.", url: "https://www.siteground.com" },
+  { name: "SiteGround StartUp", price: "$3.99/mo", renewal: "$14.99/mo", storage: "10 GB SSD", sites: "1", verdict: "Most expensive here but the best support and daily backups justify it.", url: "https://www.siteground.com/index.htm?afcode=6dadc1a65bc578e8e934b5cd233e43e0" },
 ];
 
 export default function CheapestWebHosting() {
